@@ -560,6 +560,12 @@
 | 26.05 | University of Bath | arxiv | [Auditing Privacy in Multi-Tenant RAG under Account Collusion](https://arxiv.org/abs/2605.19847) | **RAGPrivacy**&**DifferentialPrivacy**&**AccountCollusion** |
 | 26.05 | Rensselaer Polytechnic Institute | arxiv | [LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems](https://arxiv.org/abs/2605.22786) | **LatentCommunication**&**KVCache**&**PrivacyLeakage** |
 | 26.05 | University of California San Diego | CHI 2026 | [PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions](https://arxiv.org/abs/2605.20206) | **PrivacyDesign**&**LLMQuestions**&**RiskAssessment** |
+| 26.05 | Department of Electrical and Computer Engineering, Queen's University, K7L 3N6, Canada | arxiv | [Security, Privacy, and Ethical Risks in OpenClaw](https://arxiv.org/abs/2605.23330) | **Agent Security**&**Privacy Risks**&**AI Ethics** |
+| 26.05 | SUSTech | arxiv | [CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference](https://arxiv.org/abs/2605.23640) | **KV Cache**&**Inference Privacy**&**Side Channels** |
+| 26.05 | Department of Computer Science and Engineering, University of California, San Diego (UCSD) | arxiv | [CyberMaskQA: A Privacy-Aware Benchmark for Evaluating Large Language Models in Cybersecurity Question Answering](https://arxiv.org/abs/2605.24765) | **Cybersecurity QA**&**Privacy Benchmark**&**Sensitive Data** |
+| 26.05 | Karlsruhe Institute of Technology, Germany | arxiv | [When Helpful Context Leaks: Privacy Risks in Domain-Adapted ASR](https://arxiv.org/abs/2605.28211) | **ASR Privacy**&**Domain Adaptation**&**Context Leakage** |
+| 26.05 | Beijing University of Posts and Telecommunications | arxiv | [MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution](https://arxiv.org/abs/2605.28646) | **GUI agents**&**privacy arbitration**&**edge security** |
+| 26.05 | East China Normal University | CCS 2026 | [What Does the Server See? Understanding Privacy Leakage from Large Language Models in Split Inference](https://arxiv.org/abs/2605.23158) | **LLM Privacy**&**Split Inference**&**Activation Inversion** |
 
 
 

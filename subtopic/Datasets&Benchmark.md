@@ -471,6 +471,17 @@
 | 26.05 | ELLIS Institute Tübingen & MPI-IS & Tübingen AI Center | arxiv | [Measuring Security Without Fooling Ourselves: Why Benchmarking Agents Is Hard](https://arxiv.org/abs/2605.22568) | **AgentSecurity**&**Benchmarking**&**Evaluation** |
 | 26.05 | Sapienza University of Rome | arxiv | [Boiling the Frog: A Multi-Turn Benchmark for Agentic Safety](https://arxiv.org/abs/2605.22643) | **AgenticSafety**&**MultiTurn**&**Benchmark** |
 | 26.05 | The Pennsylvania State University | ICML 2026 | [LLM Benchmark Datasets Should Be Contamination-Resistant](https://arxiv.org/abs/2605.19999) | **BenchmarkContamination**&**UnlearnableDatasets**&**LLMEvaluation** |
+| 26.05 | University of Michigan | arxiv | [The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models](https://arxiv.org/abs/2605.25510) | **Child Safety**&**Safety Benchmark**&**LLM Evaluation** |
+| 26.05 | Department of Computer Engineering, Bahcesehir University, Istanbul, Turkiye | arxiv | [AgentSecBench: Measuring Prompt Injection, Privacy Leakage, and Tool-Use Integrity in LLM Agents](https://arxiv.org/abs/2605.26269) | **Prompt Injection**&**Privacy Leakage**&**Agent Security** |
+| 26.05 | Helivan | arxiv | [Jailbreak susceptibility prediction and mitigation via the behavioral geometry of models](https://arxiv.org/abs/2605.26409) | **Jailbreak Evaluation**&**Behavioral Geometry**&**Defense Transfer** |
+| 26.05 | Northwestern University in Qatar | arxiv | [KZ-SafetyPrompts: A Kazakh Safety Evaluation Prompt Dataset for Large Language Models](https://arxiv.org/abs/2605.26947) | **Multilingual Safety**&**Kazakh Dataset**&**Safety Evaluation** |
+| 26.05 | Northwestern University in Qatar | arxiv | [AlbanianLLMSafety: A Safety Evaluation Dataset for Large Language Models in Albanian](https://arxiv.org/abs/2605.26954) | **Albanian Safety**&**Low-Resource Languages**&**Safety Benchmark** |
+| 26.05 | School of Computer Science, University of Nottingham, Jubilee Campus, Wollaton Road, Nottingham, NG8 1BB, United Kingdom | arxiv | [Prompt Injection Detection is Regime-Dependent: A Deployment-Aware Evaluation with Interpretable Structural Signals](https://arxiv.org/abs/2605.26999) | **Prompt Injection**&**Detection Evaluation**&**Structural Signals** |
+| 26.05 | AIM Intelligence | arxiv | [When Context Flips, Safety Breaks: Diagnosing Brittle Safety in Aligned Language Models](https://arxiv.org/abs/2605.27851) | **Brittle Safety**&**Context Flip**&**Guardrails** |
+| 26.05 | Domyn, Gurugram, India | ICLR 2026 Workshop | [Benchmarking Open-Source Safety Guard Models: A Comprehensive Evaluation](https://arxiv.org/abs/2605.28830) | **safety guard models**&**content moderation**&**benchmark evaluation** |
+| 26.05 | McGill University | arxiv | [SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation](https://arxiv.org/abs/2605.29146) | **Medication Safety**&**Clinical Agents**&**Knowledge Grounding** |
+| 26.05 | Department of Electrical and Computer Engineering, National University of Singapore | arxiv | [Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents](https://arxiv.org/abs/2605.29224) | **Web Retrieval**&**Safety Alignment**&**Agent Safety** |
+| 26.05 | Qwen DianJin Team, Alibaba Cloud Computing | arxiv | [FinGuard: Detecting Financial Regulatory Non-Compliance in LLM Interactions](https://arxiv.org/abs/2605.29427) | **Financial Compliance**&**Guard Models**&**Regulatory Benchmarks** |
 
 
 

@@ -869,6 +869,14 @@
 | 26.05 | TU Wien | arxiv | [ACL-Verbatim: hallucination-free question answering for research](https://arxiv.org/abs/2605.21102) | **ExtractiveQA**&**HallucinationFree**&**ResearchAssistant** |
 | 26.05 | Graduate School of Data Science, Seoul National University | arxiv | [Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer](https://arxiv.org/abs/2605.22007) | **Hallucination**&**AnswerCommitment**&**InstructionTuning** |
 | 26.05 | College of Computer Science and Technology, Jilin University | KDD 2026 | [Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection](https://arxiv.org/abs/2605.19285) | **MisinformationDetection**&**ExplainableLLMs**&**RationaleSelection** |
+| 26.05 | Institute of Language and Speech Processing, Athena Research Center | arxiv | [Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902) | **Vision-Language Models**&**Mechanistic Interpretability**&**Hallucination Detection** |
+| 26.05 | United International University | arxiv | [MULTIHALUDET: Multilingual Hallucination Detection via LLM Hidden State Probing](https://arxiv.org/abs/2605.24919) | **Hallucination Detection**&**Multilingual Safety**&**Hidden States** |
+| 26.05 | Ekimetrics | arxiv | [Evaluating the Relevance of Uncertainty Estimators for LLM Hallucination](https://arxiv.org/abs/2605.27016) | **Hallucination Detection**&**Uncertainty Estimation**&**LLM Reliability** |
+| 26.05 | Beijing University of Posts and Telecommunications | arxiv | [On the Hidden Costs of Counterfactual Knowledge Training in LLM Unlearning](https://arxiv.org/abs/2605.27083) | **Model Unlearning**&**Counterfactual Tuning**&**Hallucination Spillover** |
+| 26.05 | The Pennsylvania State University | arxiv | [Can Hallucinations Be Useful? Solving Multi-Hop Questions With SLMs By Chaining System-I/II Reasoning](https://arxiv.org/abs/2605.27596) | **SLM Reasoning**&**Hallucination**&**Multi-Hop QA** |
+| 26.05 | School of Computer and Electronic Information, Nanjing Normal University, China | arxiv | [Rethinking Visual Neglect: Steering via Context-Preference for MLLM Hallucination Mitigation](https://arxiv.org/abs/2605.27993) | **MLLM Hallucination**&**Activation Steering**&**Context Preference** |
+| 26.05 | Solar System of OVB, Tencent, China | ICLR 2026 | [Micro-Macro Retrieval: Reducing Long-Form Hallucination in Large Language Models](https://arxiv.org/abs/2605.28828) | **retrieval augmentation**&**hallucination reduction**&**long-form generation** |
+| 26.05 | Manning College of Information and Computer Sciences | arxiv | [Hallucination Detection-Guided Preference Optimization for Clinical Summarization](https://arxiv.org/abs/2605.28910) | **Hallucination Detection**&**Clinical Summarization**&**Preference Optimization** |
 
 
 

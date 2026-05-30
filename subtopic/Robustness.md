@@ -99,6 +99,8 @@
 | 26.05 | Shanghai Jiao Tong University | S&P 2026 | [SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058) | **Jailbreak Robustness**&**Systematization**&**LLM Security** |
 | 26.05 | Columbia University and Google | arxiv | [Engineering Robustness into Personal Agents with the AI Workflow Store](https://arxiv.org/abs/2605.10907) | **LLM Agents**&**Robustness**&**Software Engineering** |
 | 26.05 | Harbin Institute of Technology, Shenzhen | arxiv | [Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding](https://arxiv.org/abs/2605.14005) | **Speculative Decoding**&**Inference Security**&**Acceleration Collapse** |
+| 26.05 | Department of Computer Science, Birzeit University, Ramallah, Palestine | arxiv | [Enhancing Reliability in LLM-Based Secure Code Generation](https://arxiv.org/abs/2605.24300) | **Secure Code Generation**&**Prompt Engineering**&**MA-CoT** |
+| 26.05 | The State Key Laboratory of Blockchain and Data Security, Zhejiang University | arxiv | [Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization](https://arxiv.org/abs/2605.29396) | **Safety Alignment**&**Robustness**&**Zeroth-order Optimization** |
 
 
 
