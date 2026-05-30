@@ -552,6 +552,14 @@
 | 26.05 | University of Florida | arxiv | [Small, Private Language Models as Teammates for Educational Assessment Design](https://arxiv.org/abs/2605.15015) | **Private Language Models**&**Education**&**Assessment Design** |
 | 26.05 | Samsung R&D Institute UK | ICASSP 2026 | [DP-LAC: Lightweight Adaptive Clipping for Differentially Private Federated Fine-Tuning of Language Models](https://arxiv.org/abs/2605.10272) | **Differential Privacy**&**Federated Learning**&**Adaptive Clipping** |
 | 26.05 | The Chinese University of Hong Kong | ICML 2026 | [MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](https://arxiv.org/abs/2605.14289) | **Privacy-Preserving**&**Mixture-of-Experts**&**Proxy Selection** |
+| 26.05 | Nanjing University | arxiv | [Probing Privacy Leaks in LLM-based Code Generation via Test Generation](https://arxiv.org/abs/2605.15248) | **PrivacyLeakage**&**CodeGeneration**&**TestGeneration** |
+| 26.05 | Ben-Gurion University of the Negev | arxiv | [Who Owns This Agent? Tracing AI Agents Back to Their Owners](https://arxiv.org/abs/2605.16035) | **AgentAttribution**&**CanaryTracing**&**Accountability** |
+| 26.05 | Department of Computer and Data Sciences, Case Western Reserve University | arxiv | [Privacy Policy Enforcement Guardrails for Data-Sensitive Retrieval-Augmented Generation](https://arxiv.org/abs/2605.17034) | **PrivacyGuardrails**&**RAG**&**DataLeakage** |
+| 26.05 | Nanyang Technological University | arxiv | [Rethinking Side-Channel Analysis: Automated Discovery and Analysis of Side-Channel Leakage with LLM-Assisted Agents](https://arxiv.org/abs/2605.17406) | **SideChannelAnalysis**&**LLMAgents**&**LeakageDiscovery** |
+| 26.05 | Renmin University of China | arxiv | [DP-SelFT: Differentially Private Selective Fine-Tuning for Large Language Models](https://arxiv.org/abs/2605.17432) | **DifferentialPrivacy**&**SelectiveFineTuning**&**LLMAdaptation** |
+| 26.05 | University of Bath | arxiv | [Auditing Privacy in Multi-Tenant RAG under Account Collusion](https://arxiv.org/abs/2605.19847) | **RAGPrivacy**&**DifferentialPrivacy**&**AccountCollusion** |
+| 26.05 | Rensselaer Polytechnic Institute | arxiv | [LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems](https://arxiv.org/abs/2605.22786) | **LatentCommunication**&**KVCache**&**PrivacyLeakage** |
+| 26.05 | University of California San Diego | CHI 2026 | [PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions](https://arxiv.org/abs/2605.20206) | **PrivacyDesign**&**LLMQuestions**&**RiskAssessment** |
 
 
 

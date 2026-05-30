@@ -882,6 +882,23 @@
 | 26.05 | City University of Hong Kong | arxiv | [Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution](https://arxiv.org/abs/2605.13411) | **Lifelong Safety**&**Attack-Defense Co-Evolution**&**Model-Agnostic Defense** |
 | 26.05 | Google Cloud AI Research | arxiv | [LiSA: Lifelong Safety Adaptation via Conservative Policy Induction](https://arxiv.org/abs/2605.14454) | **Lifelong Safety**&**Policy Induction**&**AI Agents** |
 | 26.05 | National University of Singapore | arxiv | [WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections](https://arxiv.org/abs/2605.15030) | **Web Agents**&**Prompt Injection**&**Robust Defense** |
+| 26.05 | Beihang University | arxiv | [PropGuard: Safeguarding LLM-MAS via Propagation-Aware Exploration and Remediation](https://arxiv.org/abs/2605.16346) | **MultiAgentSecurity**&**PropagationAnalysis**&**Remediation** |
+| 26.05 | University of South Florida | arxiv | [SafeLens: Deliberate and Efficient Video Guardrails with Fast-and-Slow Screening](https://arxiv.org/abs/2605.17610) | **VideoGuardrails**&**FastSlowScreening**&**ContentModeration** |
+| 26.05 | Virginia Tech | arxiv | [Remembering More, Risking More: Longitudinal Safety Risks in Memory-Equipped LLM Agents](https://arxiv.org/abs/2605.17830) | **AgentMemory**&**TemporalContamination**&**LongitudinalSafety** |
+| 26.05 | School of Computer Applications, Kalinga Institute of Industrial Technology | arxiv | [Explainable Machine Learning for Phishing Detection on Heterogeneous Datasets with MCP-Enabled Deployment](https://arxiv.org/abs/2605.17891) | **PhishingDetection**&**ExplainableAI**&**MCPDeployment** |
+| 26.05 | College of Artificial Intelligence, Nanjing University of Aeronautics and Astronautics | arxiv | [Fast and Lightweight Backdoor Detection via Head Random Probing](https://arxiv.org/abs/2605.18908) | **BackdoorDetection**&**ModelAuditing**&**RandomProbing** |
+| 26.05 | Purdue University | arxiv | [Exploring and Developing a Pre-Model Safeguard with Draft Models](https://arxiv.org/abs/2605.19321) | **JailbreakDefense**&**DraftModels**&**PromptSafety** |
+| 26.05 | Leidos | arxiv | [Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks](https://arxiv.org/abs/2605.19147) | **DataPoisoning**&**BackdoorDefense**&**LLMRewriting** |
+| 26.05 | ETH Zurich | arxiv | [Sampling-Based Safe Reinforcement Learning](https://arxiv.org/abs/2605.19469) | **SafeExploration**&**ReinforcementLearning**&**ModelBasedRL** |
+| 26.05 | Wuhan University | arxiv | [BiRD: A Bidirectional Ranking Defense Mechanism for Retrieval Augmented Generation](https://arxiv.org/abs/2605.20123) | **RAGDefense**&**PoisoningAttacks**&**BidirectionalRanking** |
+| 26.05 | The Hong Kong University of Science and Technology | arxiv | [GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety](https://arxiv.org/abs/2605.20203) | **ElderlySafety**&**ChatbotRisk**&**LLMSafeguards** |
+| 26.05 | Yonsei University | arxiv | [Geometry-Lite: Interpretable Safety Probing via Layer-Wise Margin Geometry](https://arxiv.org/abs/2605.20241) | **SafetyProbing**&**MarginGeometry**&**LayerWiseAnalysis** |
+| 26.05 | Curtin University | arxiv | [Rethinking Fraud Safety Evaluation: Multi-Round Attacks Reveal Safety-Utility Tradeoffs in Graph-Context LLM Defenders](https://arxiv.org/abs/2605.20759) | **FraudDefense**&**MultiRoundAttacks**&**GraphContext** |
+| 26.05 | TCS Research | arxiv | [PREFINE: Preference-Based Implicit Reward and Cost Fine-Tuning for Safety Alignment](https://arxiv.org/abs/2605.21225) | **SafetyAlignment**&**PreferenceOptimization**&**ReinforcementLearning** |
+| 26.05 | Virginia Tech | arxiv | [CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety](https://arxiv.org/abs/2605.21609) | **AdolescentSafety**&**Guardrails**&**ResponseRewriting** |
+| 26.05 | Aeronautics Institute of Technology (ITA) | arxiv | [PocketAgents: A Manifest-Driven Library of Autonomous Defense Agents](https://arxiv.org/abs/2605.21694) | **AutonomousDefense**&**LLMAgents**&**Cybersecurity** |
+| 26.05 | Fudan University | ICML 2026 | [Towards Context-Invariant Safety Alignment for Large Language Models](https://arxiv.org/abs/2605.20994) | **ContextInvariance**&**SafetyAlignment**&**PreferenceOptimization** |
+| 26.05 | Kahlert School of Computing, University of Utah | ICML 2026 | [Implicit Safety Alignment from Crowd Preferences](https://arxiv.org/abs/2605.21822) | **CrowdPreferences**&**ImplicitSafety**&**SafeRL** |
 
 
 

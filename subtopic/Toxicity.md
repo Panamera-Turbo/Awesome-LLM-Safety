@@ -136,6 +136,8 @@
 | 26.04 | University of Passau, Chair of Data Science | LREC 2026 | [Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale Data and Ensemble LLM Annotations](https://arxiv.org/abs/2604.09625) | **Generalized Cross-Lingual Hateful**&**Cross-Lingual Hateful Language**&**Hateful Language Detection** |
 | 26.05 | Department of Computer Science, University of Arizona | arxiv | [An Evaluation of Chat Safety Moderations in Roblox](https://arxiv.org/abs/2605.04491) | **Chat Moderation**&**Roblox**&**Online Safety** |
 | 26.05 | University of Illinois Chicago | arxiv | [Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study](https://arxiv.org/abs/2605.14087) | **Toxicity**&**Mitigation**&**Replication Study** |
+| 26.05 | Dalian University of Technology | arxiv | [Harder to Defend: Towards Chinese Toxicity Attacks via Implicit Enhancement and Obfuscation Rewriting](https://arxiv.org/abs/2605.22258) | **ChineseToxicity**&**RedTeaming**&**Obfuscation** |
+| 26.05 | Fondazione Bruno Kessler | arxiv | [Assisted Counterspeech Writing at the Crossroads of Hate Speech and Misinformation](https://arxiv.org/abs/2605.22435) | **Counterspeech**&**HateSpeech**&**Misinformation** |
 
 
 

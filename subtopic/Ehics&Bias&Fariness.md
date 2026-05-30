@@ -440,6 +440,7 @@
 | 26.05 | Elmore Family School of Electrical and Computer Engineering, Purdue University | arxiv | [The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594) | **Multimodal RAG**&**Textual Bias**&**Bias Mitigation** |
 | 26.05 | Nanyang Technological University, Singapore | arxiv | [BiAxisAudit: A Novel Framework to Evaluate LLM Bias Across Prompt Sensitivity and Response-Layer Divergence](https://arxiv.org/abs/2605.09041) | **Bias**&**Audit**&**Prompt Sensitivity** |
 | 26.05 | Department of Computer Science, University of Toronto | ACL 2026 | [Fin-Bias: Comprehensive Evaluation for LLM Decision-Making under human bias in Finance Domain](https://arxiv.org/abs/2605.09106) | **Finance**&**Bias**&**Decision-Making** |
+| 26.05 | Mila - Quebec AI Institute | arxiv | [Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs](https://arxiv.org/abs/2605.20410) | **GenderBias**&**ChainOfThought**&**MechanisticInterpretability** |
 
 
 ## 💻Presentations & Talks

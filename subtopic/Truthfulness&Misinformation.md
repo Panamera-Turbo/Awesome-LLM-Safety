@@ -858,6 +858,17 @@
 | 26.05 | Hong Kong University of Science and Technology | arxiv | [Scalable Token-Level Hallucination Detection in Large Language Models](https://arxiv.org/abs/2605.12384) | **Hallucination**&**Token-Level Detection**&**Large Language Models** |
 | 26.05 | Tsinghua University | arxiv | [Do We Really Need External Tools to Mitigate Hallucinations? SIRA: Shared-Prefix Internal Reconstruction of Attribution](https://arxiv.org/abs/2605.14621) | **Hallucination**&**Vision-Language Models**&**Contrastive Decoding** |
 | 26.05 | University of Pennsylvania | ICML 2026 | [REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](https://arxiv.org/abs/2605.12813) | **Hallucination**&**Adversarial Attacks**&**Latent Space** |
+| 26.05 | University of Pittsburgh | arxiv | [Retrieval-Based Multi-Label Legal Annotation: Extensible, Data-Efficient and Hallucination-Free](https://arxiv.org/abs/2605.16767) | **LegalAnnotation**&**RetrievalModels**&**HallucinationFree** |
+| 26.05 | Department of Computer Science and Technology, Tsinghua University | arxiv | [How do Humans Process AI-generated Hallucination Contents: a Neuroimaging Study](https://arxiv.org/abs/2605.16953) | **AIHallucination**&**Neuroimaging**&**HumanCognition** |
+| 26.05 | Department of Information and Computer Science, King Fahd University of Petroleum and Minerals | arxiv | [HalluScore: Large Language Model Hallucination Question Answering Benchmark](https://arxiv.org/abs/2605.17007) | **Hallucination**&**ArabicBenchmark**&**QuestionAnswering** |
+| 26.05 | Virginia Tech | arxiv | [PARALLAX: Separating Genuine Hallucination Detection from Benchmark Construction Artifacts](https://arxiv.org/abs/2605.17028) | **HallucinationDetection**&**BenchmarkArtifacts**&**HiddenStates** |
+| 26.05 | Independent Researcher | arxiv | [The Range Shrinks, the Threat Remains: Re-evaluating LLM Package Hallucinations on the 2026 Frontier-Model Cohort](https://arxiv.org/abs/2605.17062) | **PackageHallucination**&**SupplyChain**&**Slopsquatting** |
+| 26.05 | Carnegie Mellon University | arxiv | [HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models](https://arxiv.org/abs/2605.19341) | **HallucinationBenchmark**&**ReferenceWorlds**&**LanguageModels** |
+| 26.05 | Macquarie University | arxiv | [Do No Harm? Hallucination and Actor-Level Abuse in Web-Deployed Medical Large Language Models](https://arxiv.org/abs/2605.20591) | **MedicalLLM**&**Hallucination**&**PolicyCompliance** |
+| 26.05 | Shenzhen University | arxiv | [Hallucination as Exploit: Evidence-Carrying Multimodal Agents](https://arxiv.org/abs/2605.19192) | **MultimodalAgents**&**HallucinationExploit**&**EvidenceCarrying** |
+| 26.05 | TU Wien | arxiv | [ACL-Verbatim: hallucination-free question answering for research](https://arxiv.org/abs/2605.21102) | **ExtractiveQA**&**HallucinationFree**&**ResearchAssistant** |
+| 26.05 | Graduate School of Data Science, Seoul National University | arxiv | [Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer](https://arxiv.org/abs/2605.22007) | **Hallucination**&**AnswerCommitment**&**InstructionTuning** |
+| 26.05 | College of Computer Science and Technology, Jilin University | KDD 2026 | [Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection](https://arxiv.org/abs/2605.19285) | **MisinformationDetection**&**ExplainableLLMs**&**RationaleSelection** |
 
 
 

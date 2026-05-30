@@ -461,6 +461,16 @@
 | 26.05 | University of California, Santa Barbara | arxiv | [Auditing Agent Harness Safety](https://arxiv.org/abs/2605.14271) | **Agent Harness**&**Safety Audit**&**Trajectory Evaluation** |
 | 26.05 | Unknown | arxiv | [The Great Pretender: A Stochasticity Problem in LLM Jailbreak](https://arxiv.org/abs/2605.14418) | **Jailbreak**&**Stochasticity**&**Evaluation** |
 | 26.05 | Unknown | arxiv | [Defenses at Odds: Measuring and Explaining Defense Conflicts in Large Language Models](https://arxiv.org/abs/2605.14514) | **Defense Conflicts**&**Sequential Deployment**&**LLM Safety** |
+| 26.05 | School of Information Studies, McGill University | arxiv | [Taxonomy and Consistency Analysis of Safety Benchmarks for AI Agents](https://arxiv.org/abs/2605.16282) | **AgentSafety**&**BenchmarkTaxonomy**&**EvaluationConsistency** |
+| 26.05 | Anthropic Fellows Program | arxiv | [SLEIGHT-Bench: A Benchmark of Evasion Attacks Against Agent Monitors](https://arxiv.org/abs/2605.16626) | **AgentMonitoring**&**EvasionAttacks**&**CodingAgents** |
+| 26.05 | Stanford University | arxiv | [Why Do Safety Guardrails Degrade Across Languages?](https://arxiv.org/abs/2605.17173) | **MultilingualSafety**&**Guardrails**&**JailbreakEvaluation** |
+| 26.05 | Southern University of Science and Technology | arxiv | [Trust No Tool: Evaluating and Defending LLM Agents under Untrusted Tool Feedback](https://arxiv.org/abs/2605.17453) | **ToolAgents**&**CognitivePoisoning**&**AgentSecurity** |
+| 26.05 | ETH Zurich | arxiv | [POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents](https://arxiv.org/abs/2605.19127) | **PrivacyBenchmark**&**LLMAgents**&**UtilityTradeoff** |
+| 26.05 | University College London | arxiv | [Measuring Safety Alignment Effects in Autonomous Security Agents](https://arxiv.org/abs/2605.19722) | **SecurityAgents**&**SafetyAlignment**&**AutonomousSystems** |
+| 26.05 | University of Nevada Las Vegas | arxiv | [Refusal Evaluation in Coding LLMs and Code Agents: A Systematic Review of Thirteen Malicious-Code Prompt Corpora (2023-2025)](https://arxiv.org/abs/2605.20351) | **RefusalEvaluation**&**MaliciousCode**&**PromptCorpora** |
+| 26.05 | ELLIS Institute Tübingen & MPI-IS & Tübingen AI Center | arxiv | [Measuring Security Without Fooling Ourselves: Why Benchmarking Agents Is Hard](https://arxiv.org/abs/2605.22568) | **AgentSecurity**&**Benchmarking**&**Evaluation** |
+| 26.05 | Sapienza University of Rome | arxiv | [Boiling the Frog: A Multi-Turn Benchmark for Agentic Safety](https://arxiv.org/abs/2605.22643) | **AgenticSafety**&**MultiTurn**&**Benchmark** |
+| 26.05 | The Pennsylvania State University | ICML 2026 | [LLM Benchmark Datasets Should Be Contamination-Resistant](https://arxiv.org/abs/2605.19999) | **BenchmarkContamination**&**UnlearnableDatasets**&**LLMEvaluation** |
 
 
 
